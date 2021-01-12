@@ -5,5 +5,5 @@ if (name=='lets go'){
 var pc = document.getElementById("pic_cntr");
 pc.innerHTML="<img src='bd.gif'>";
 }else{
-    alert('попробуй еще раз... что то не верно.');
+    alert('попробуй еще раз... что то не верно..');
 }
