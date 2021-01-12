@@ -1,7 +1,7 @@
 var img = document.createElement("IMG")
 var name=prompt('Полина, введите ответ.');
 if (name=='lets go'){
-    alert(name + 'Поздравляю! Lets go покупать перчатки!');
+    alert('Поздравляю! Lets go покупать перчатки!');
 var pc = document.getElementById("pic_cntr");
 pc.innerHTML="<img src='bd.gif'>";
 }else{
